@@ -26,6 +26,7 @@ const Converter = {
     weight: {
       kgToPounds: (kg) => kg * 2.20462,
       poundsToKg: (pounds) => pounds * 0.453592,
+      
   
       gramsToKg: (grams) => grams / 1000,
       kgToGrams: (kg) => kg * 1000,
