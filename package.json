@@ -1,0 +1,16 @@
+{
+  "name": "simple-convert-i18n",
+  "version": "1.0.0",
+  "description": "A simple and lightweight library for unit conversion. Supports basic units like length, weight, temperature, and speed. Works seamlessly in Node.js and browsers! 📏⚖️🌡️🚀",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unit-converter",
+    "unit-conversion",
+    "lightweight-library"
+  ],
+  "author": "Abdeljabbar Hamri",
+  "license": "ISC"
+}
